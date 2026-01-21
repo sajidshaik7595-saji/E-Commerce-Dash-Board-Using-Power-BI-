@@ -145,6 +145,9 @@ Add screenshots section
 
 Create a Project Architecture / Data Model diagram
 
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/151c9524-d536-4bd5-b088-62ebdbe16c81" />
+
+
 Write a resume-ready project description
 
 Optimize it for Power BI portfolio recruiters
